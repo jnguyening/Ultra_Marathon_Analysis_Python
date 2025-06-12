@@ -1,8 +1,4 @@
-Here’s the **title** and **project overview** for your [Ultra Marathon Analysis Python](https://github.com/jnguyening/Ultra_Marathon_Analysis_Python) repository, including the Kaggle dataset link:
-
----
-
-# 🏃 Ultra Marathon Running Data Analysis with Python
+#  Ultra Marathon Running Data Analysis with Python
 
 ## Project Overview
 
