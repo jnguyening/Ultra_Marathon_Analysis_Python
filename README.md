@@ -1,5 +1,5 @@
-#  Ultra Marathon Running Data Analysis with Python
+# Ultra Marathon Data Cleaning & Analysis with Python
 
 ## Project Overview
 
-This project performs **data analysis** on ultra marathon race statistics using Python. The dataset, sourced from [Kaggle’s Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data), contains detailed records on runners, races, distances, and finish times. The analysis explores performance trends, participation patterns, and the impact of various factors such as gender, age, and race type. This project showcases how Python can be used to uncover insights from endurance sports data through cleaning, visualization, and exploratory techniques.
+This project focuses on **data analysis** of ultra marathon running statistics using Python. The dataset, sourced from [Kaggle’s Big Dataset of Ultra Marathon Running](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/data), contains information on thousands of races and runners worldwide. The workflow includes cleaning the raw data to handle inconsistencies and missing values, followed by exploratory analysis to uncover trends in performance, participation, and demographics. This project demonstrates how Python can be used to process large-scale sports data and extract meaningful insights from endurance race statistics.
