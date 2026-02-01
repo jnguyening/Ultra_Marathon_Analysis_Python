@@ -1,4 +1,4 @@
-# Ultra Marathon Data Cleaning & Analysis with Python
+# Ultra Marathon Data Cleaning & Analysis
 
 ## Overview
 
